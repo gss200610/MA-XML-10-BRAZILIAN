@@ -214,4 +214,27 @@
     <string name="worldcolock_timezone_date">dd MMM</string>
     <string name="worldcolock_timezone_gap">Hora</string>
     <string name="worldcolock_timezone_local">Mesmo que a hora local</string>
+  <string name="expired_timers_dismissed">Dismissed timer successfully</string>
+  <string name="full_wday_month_day_no_year">EEEE, d MMMM</string>
+  <string name="invalid_timer_length">"Timer's duration is invalid"</string>
+  <string name="other_category_title">Other</string>
+  <string name="privacy_policy">Privacy Policy</string>
+  <string name="search_alarm_clock">@string/alarm_list_title</string>
+  <string name="search_stopwatch">@string/stopwatch_title</string>
+  <string name="search_timer">@string/timer_title</string>
+  <string name="search_worldclock">@string/worldclock_title</string>
+  <string name="skip_alarm_date_format">%1$s (%2$s)</string>
+  <string name="symbol_colon">:</string>
+  <string name="timer_alert_mute_off">O alarme soará quando o temporizador parar</string>
+  <string name="timer_alert_mute_on">"Alarm won't sound when timer stops"</string>
+  <string name="timer_alert_mute_remind">Tap to mute alarm</string>
+  <string name="timer_alert_mute_switch">Switch for muting timer alarms</string>
+  <string name="timer_can_continue_in_timer">Open Timer to resume</string>
+  <string name="timer_cancel_hint">Stop</string>
+  <string name="timer_created">Added timer successfully</string>
+  <string name="timer_end_time">Timer will stop at %s</string>
+  <string name="timer_end_time_format">HH:mm dd MMM</string>
+  <string name="timer_end_time_format_today">HH:mm</string>
+  <string name="timer_is_paused">Timer is paused</string>
+  <string name="stat_repeat_everyday">每天</string>	
 </resources>

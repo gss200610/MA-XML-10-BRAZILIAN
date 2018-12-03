@@ -171,5 +171,8 @@
     <string name="super_resolution_maintain_tips">A super resolução ainda não está disponível.</string>
     <string name="wifi_assistant_wifi_no_internet">Esta rede Wi-Fi não tem acesso à internet</string>
     <string name="wifi_assistant_wifi_no_internet_detail">Toque para ver detalhes</string>
-    <string name="resolver_app_recommend_flag">Recommend</string>
+    <string name="resolver_app_recommend_flag">Recomendado</string>
+  <string name="miui_warning_button_ok">OK</string>
+  <string name="miui_warning_button_cancel">Cancelar</string>
+	
 </resources>

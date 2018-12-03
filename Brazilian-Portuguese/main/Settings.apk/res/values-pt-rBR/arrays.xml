@@ -1,5 +1,32 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string-array name="traffic_type">
+        <item>"Uso móvel "</item>
+        <item>"Uso de WLAN "</item>
+    </string-array>
+    <string-array name="date_of_traffic">
+        <item>"Hoje "</item>
+        <item>"Este mês "</item>
+        <item>"Mês passado "</item>
+    </string-array>
+    <string-array name="date_of_traffic_prefix">
+        <item>"Hoje: "</item>
+        <item>"Este mês: "</item>
+        <item>"Último mês: "</item>
+    </string-array>
+    <string-array name="date_of_app_all">
+        <item>Hoje (dados)</item>
+        <item>Este mês (dados)</item>
+        <item>Mês passado (dados)</item>
+        <item>Hoje WLAN</item>
+        <item>Este mês WLAN</item>
+        <item>No mês passado WLAN</item>
+    </string-array>
+    <string-array name="status_bar_settings_notification_shade_shortcut_entries">
+        <item>Pesquisar</item>
+        <item>Configurações</item>
+    </string-array>
+
     <string-array name="agps_network_entries">
         <item>Rede doméstica</item>
         <item>Todas as redes</item>
