@@ -6,6 +6,7 @@ MIUI V10 Brazilian Portuguese translation for all supported devices.
 
 MIUI Translation:
 
+G.S.s (Gilmar Silva Santos)
 Feurrado (Thiago Moreira)
 
 Lobianco (Sérgio Lobianco)
